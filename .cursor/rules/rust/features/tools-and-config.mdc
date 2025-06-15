@@ -1,6 +1,6 @@
 ---
-description:
-globs:
+description: "Tools and configuration best practices for Rust applications"
+globs: []
 alwaysApply: false
 ---
 # 🛠️ TOOLS AND CONFIGURATION BEST PRACTICES

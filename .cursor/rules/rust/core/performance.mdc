@@ -1,6 +1,6 @@
 ---
-description:
-globs:
+description: "Performance optimization strategies for Rust applications"
+globs: []
 alwaysApply: false
 ---
 # ⚡ RUST PERFORMANCE OPTIMIZATION

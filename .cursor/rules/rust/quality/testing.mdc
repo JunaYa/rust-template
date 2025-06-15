@@ -1,6 +1,6 @@
 ---
-description:
-globs:
+description: "Testing standards and practices for Rust projects"
+globs: []
 alwaysApply: false
 ---
 # 🧪 RUST TESTING STANDARDS
