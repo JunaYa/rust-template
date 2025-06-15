@@ -1,0 +1,2 @@
+[template]
+ignore = [".cursor", "cliff.toml"]
